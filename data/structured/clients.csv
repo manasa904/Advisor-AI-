@@ -1,0 +1,9 @@
+client_id,name,age,email,phone,risk_appetite,investment_goal,tax_status,relationship_manager,aum,segment
+C001,Rajesh Sharma,52,rajesh.sharma@email.com,9876543210,Moderate,Retirement,Taxable,RM001,4500000,HNI
+C002,Priya Mehta,38,priya.mehta@email.com,9876543211,Aggressive,Wealth Growth,Taxable,RM001,1200000,Mass Affluent
+C003,Suresh Patel,61,suresh.patel@email.com,9876543212,Conservative,Capital Preservation,Tax-Exempt,RM002,8900000,Ultra HNI
+C004,Anita Desai,45,anita.desai@email.com,9876543213,Moderate,Children Education,Taxable,RM002,2300000,HNI
+C005,Vikram Singh,33,vikram.singh@email.com,9876543214,Aggressive,Wealth Growth,Taxable,RM003,750000,Mass Affluent
+C006,Kavita Nair,57,kavita.nair@email.com,9876543215,Conservative,Retirement,Tax-Exempt,RM003,6200000,Ultra HNI
+C007,Arjun Reddy,41,arjun.reddy@email.com,9876543216,Moderate,Wealth Growth,Taxable,RM001,1800000,HNI
+C008,Deepa Iyer,49,deepa.iyer@email.com,9876543217,Conservative,Capital Preservation,Taxable,RM002,3400000,HNI

@@ -1,0 +1,26 @@
+EQUITY RESEARCH REPORT - TECH SECTOR
+Date: May 2026
+Analyst: Internal Research Team
+
+APPLE INC (AAPL) - BUY
+Target Price: $210
+Current Price: $189
+
+Apple continues to show strong revenue growth driven by services segment.
+iPhone 16 cycle uptake has exceeded expectations in emerging markets.
+Risk factors include China supply chain concentration and regulatory scrutiny in EU.
+Recommendation: Accumulate on dips. Strong free cash flow supports dividend growth.
+
+MICROSOFT CORP (MSFT) - BUY  
+Target Price: $450
+Current Price: $415
+
+Azure cloud revenue grew 28% YoY, driven by AI workload adoption.
+Copilot integration across Office 365 suite showing strong enterprise uptake.
+Risk factors: Antitrust concerns around Activision integration.
+Recommendation: Strong Buy. AI monetization cycle is in early innings.
+
+PORTFOLIO RISK ALERT
+High concentration risk detected in Technology sector across multiple client portfolios.
+Advisors are recommended to review clients with >40% tech allocation.
+Rebalancing into Healthcare and Utilities may reduce portfolio volatility.
